@@ -1,0 +1,38 @@
+.div_volume{
+float: right;
+}
+.div_speed{
+float: left;
+}
+.div_volume_img{
+width: 200px;
+border-radius: 100px;
+}
+.div_speed_img{
+width: 200px;
+border-radius: 100px;
+}
+#speed{
+font-size: 23px;
+}
+#volume{
+font-size: 23px; 
+}
+body{
+background-image: url("background.jpg");
+background-size: cover;    
+}
+.play_button
+{
+width: 130px;
+font-size: 25px;
+}
+canvas
+{
+border:5px solid white;
+border-radius: 20px;
+}
+.heading{
+width: 100%;
+margin: 0px;
+}
